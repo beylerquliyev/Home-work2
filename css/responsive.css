@@ -1,0 +1,376 @@
+@media screen and (max-width:900px) {
+    
+
+   
+
+    .icon{
+        display: none;
+    }
+
+
+
+    .ham-btn{
+        display: block;
+    }
+
+
+    .part1{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .img1{
+        width: 100%;
+    }
+
+    .text1{
+       width: 100% ; 
+    }
+
+    .text1{
+        display: flex;
+        
+    align-items: center;
+       
+    }
+    .text1 h2{
+        text-align: center;
+        color: var(--textBlack);
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+    font-style: normal;
+    
+    
+    
+       
+
+    }
+    .text1 p{
+
+        text-align: center;
+        color: var(--gray);
+    font-family: 'Open Sans', sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: -0.48px;
+    
+        
+    }
+
+    .text1 button{
+        color: var(--white);
+    font-family: 'Roboto', sans-serif;
+    
+    
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700px;
+    line-height: 24px;
+    background-color:var(--green);
+  
+    border-radius: 8px;
+    border: none;
+    ;
+    cursor: pointer;
+
+    width: 65%;
+
+        
+    }
+
+    .cards{
+        display: flex;
+        flex-direction: column;
+        gap: 45px;
+        
+    
+    
+      
+    }
+
+    .part3{
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .card1{
+        width: 100%;
+       
+    }
+
+    .card1 h2{
+        font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height:40px;
+padding-left: 20px;
+padding-right: 20px;
+
+    }
+
+
+    .card1 p{
+       
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px; 
+    letter-spacing: -0.36px;
+    padding-left: 20px;
+padding-right: 20px;
+
+    
+    }
+
+    .card1 img{
+        padding-left: 20px;
+padding-right: 20px;
+    }
+    
+
+    .card2{
+        width: 85%;
+        
+       
+    }
+
+
+    .part4{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+
+       
+    }
+
+    .full-card4{
+
+        width: 85%;
+        margin-right: 0px;
+    }
+        
+    .logotext{
+        width: 85%;
+
+        padding-top: 100px;
+        gap: 20px;
+    }
+
+    .logotext img{
+        width: 60px;
+        height: 60px;
+        padding-top: 10px;
+    }
+    
+    
+    .logotext h2{
+        color: var(--textBlack);
+        font-family: 'Roboto', sans-serif;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px;
+    
+    }
+    
+    .logotext p{
+    
+        color: var(--textBlack);
+        font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 22px;
+    letter-spacing: -0.36px;
+    
+    }
+
+    .full-part5{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .logotext5{
+        width: 100%;
+    }
+
+    .full-cardp5{
+        width: 100%;
+    }
+    .btnp6 button{
+        border-radius: 30px;
+        background: var(--green);
+        color: var(--White, #FFF);
+        font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; 
+    padding: 3px 6px;
+    border: none;
+    
+    }
+
+    .text5 {
+       display: flex;
+       flex-direction: column;
+       gap: 10px;
+
+        
+    }
+
+    .logotext5 h2{
+     text-align: start;
+     font-size: 33px;
+    }
+
+    .part6{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .text6 h2{
+        font-size: 38px;
+font-style: normal;
+font-weight: 600;
+line-height: 44px; 
+
+    }
+
+    .text6 h4{
+        font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: 20px; 
+letter-spacing: -0.36px;
+
+    }
+
+    .cards6{
+        width: 100%;
+    }
+
+
+    .card6{
+        width: 33%;
+        padding: 0;
+        gap: 2px;
+    }
+
+
+    .card6 h3{
+        font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 22px; 
+
+    }
+
+    .cards6{
+        padding: 10px;
+        gap: 6px;
+    }
+
+    .card6 p{
+        font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 14px; 
+padding: 0;
+    }
+
+    .bt-p6 button {
+        
+        border-radius: 20px;
+    background: var(--green);
+    color: var(--white);
+    font-family: 'Roboto', sans-serif;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 12px; 
+    letter-spacing: -0.32px;
+    border: none;
+    cursor: pointer;
+    }
+       
+
+    .bt-p6 p{
+       
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 100;
+    line-height: 18px; 
+    letter-spacing: -0.32px;
+    
+    }
+
+
+    .full-part8{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .textp8{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .imgp8 img{
+        width: 100%;
+    }
+
+
+    .textp8 h2{
+        text-align: center;
+        font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 54px; 
+    }
+
+    .textp8 p{
+        text-align: center;
+        
+    }
+
+
+    .fullfooter ul {
+        display: none;
+
+    }
+
+
+    .fullfooter img{
+        display: block;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+}
